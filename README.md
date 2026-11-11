@@ -1,8 +1,15 @@
-# PitmanYorDP
+# DEPRECATED_PitmanYorDP
+
+> **Discontinued on 2026-11-11.** The locked feasibility study found no
+> practically useful association benefit from the tested PYP-inspired discount
+> beyond fitted survival and count controls. See [what we learned and why we
+> stopped](DEPRECATION.md), including the result, limitations, and preserved code
+> and evidence. The documentation below describes the historical scaffold;
+> early prior-family heuristics are not validated selection rules.
 
 Research code for Dirichlet-process and Pitman--Yor-process cardinality priors in multitarget tracking.
 
-The goal is to keep reusable implementation code here, while notes, figures, and paper text live in [`FlorianPfaff/2026-07-PitmanYorDP-Paper`](https://github.com/FlorianPfaff/2026-07-PitmanYorDP-Paper).
+The goal was to keep reusable implementation code here, while notes, figures, and paper text live in [`FlorianPfaff/DEPRECATED_2026-07-PitmanYorDP-Paper`](https://github.com/FlorianPfaff/DEPRECATED_2026-07-PitmanYorDP-Paper).
 
 ## Scope
 
@@ -140,5 +147,5 @@ pytest
 
 ## Repository split
 
-- `FlorianPfaff/PitmanYorDP`: reusable code, tests, simulation utilities.
-- `FlorianPfaff/2026-07-PitmanYorDP-Paper`: notes, figures, and manuscript text.
+- `FlorianPfaff/DEPRECATED_PitmanYorDP`: preserved code, tests, simulation utilities.
+- `FlorianPfaff/DEPRECATED_2026-07-PitmanYorDP-Paper`: preserved notes, figures, and manuscript text.
